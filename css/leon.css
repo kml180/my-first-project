@@ -154,7 +154,7 @@ body {
 /* End Header */
 /* Start Landing Section */
 .landing {
-  background-image: url(../images/tori-viker-Qx5dR6_n-Qo-unsplash.jpg);
+  background-image: url(tori-viker-Qx5dR6_n-Qo-unsplash.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
